@@ -24,7 +24,7 @@ body {
 
 ::-webkit-scrollbar {
   width: 12px;
-  background-color: black;
+  background-color: blue;
 }
 
 ::-webkit-scrollbar-track {
